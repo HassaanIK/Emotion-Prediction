@@ -1,0 +1,9 @@
+pandas
+nltk
+re
+string
+numpy
+pickle
+tensorflow
+scikit-learn
+flask
